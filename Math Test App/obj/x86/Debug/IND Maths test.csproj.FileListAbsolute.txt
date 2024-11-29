@@ -1,0 +1,8 @@
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\bin\Debug\IND Maths test.exe
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\bin\Debug\IND Maths test.pdb
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\obj\x86\Debug\IND_Maths_test.Form1.resources
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\obj\x86\Debug\IND_Maths_test.Properties.Resources.resources
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\obj\x86\Debug\IND Maths test.csproj.GenerateResource.Cache
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\obj\x86\Debug\IND Maths test.exe
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\obj\x86\Debug\IND Maths test.pdb
+C:\Users\INDRANEELA\documents\visual studio 2010\Projects\IND Maths test\IND Maths test\obj\x86\Debug\IND Maths test.csprojResolveAssemblyReference.cache
